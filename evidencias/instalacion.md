@@ -3,7 +3,7 @@
 - **Sistema operativo:** Windows 11
 - **Paquete usado:** XAMPP 8.2.12
 - **Versión de PHP:** 8.2.12 (salida de `php -v`)
-- **Servidor web:** Apache 2.4.x
+- **Servidor web:** Apache 2.4.58
 - **Base de datos:** MariaDB 10.4.32
 - **Puerto del servidor web:** 80
 - **Ruta de instalación:** C:\xampp
